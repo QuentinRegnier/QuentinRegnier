@@ -35,10 +35,11 @@ The world is plunged into a precipice of pecuniary will. My ambition is to bring
 [![Hugging Face Model](https://img.shields.io/badge/Hugging%20Face-Mixtral-blue?style=for-the-badge)](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1)
 [![PHPMailer](https://img.shields.io/badge/PHPMailer-f8cc6d?style=for-the-badge&logo=github&logoColor=black)](https://github.com/PHPMailer/PHPMailer)
 [![phpseclib](https://img.shields.io/badge/phpseclib-ff0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phpseclib/phpseclib)
-[![stripe-php](https://img.shields.io/badge/stripe--php-5f55ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stripe/stripe-php)
+[![stripe-php](https://img.shields.io/badge/stripe--php-5f55ff?style=for-the-badge&logo=stripe&logoColor=white)](https://github.com/stripe/stripe-php)
 [![Mistral AI](https://img.shields.io/badge/Mistral%20AI-ffa200?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mistralai)
 [![Crypto-JS](https://img.shields.io/badge/Crypto--JS-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brix/crypto-js)
 [![OpenPGP.js](https://img.shields.io/badge/OpenPGP.js-008CDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/openpgpjs/openpgpjs)
+[![LLaMA](https://img.shields.io/badge/LLaMA-0682f9?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/llama)
 
 ## My actual project
 
@@ -59,3 +60,12 @@ The world is plunged into a precipice of pecuniary will. My ambition is to bring
 - [ ] Creating a SMTP server
 - [ ] Finishing a responsive in all pages
 - [ ] Optimize (JavaScript code, PHP code and DataBase)
+
+## My networks
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quentin_regnier_fr/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@quentin_regnier_fr)
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/QuentinRegnier0)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0767473745)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:quentin.regnier17@gmail.com)
+
