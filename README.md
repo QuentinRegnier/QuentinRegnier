@@ -66,6 +66,7 @@ The world is plunged into a precipice of pecuniary will. My ambition is to bring
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quentin_regnier_fr/)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@quentin_regnier_fr)
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/QuentinRegnier0)
+[![X](https://img.shields.io/badge/Stackoverflow-cd5900?style=for-the-badge&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/17783029/quentin-r%c3%a9gnier)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0767473745)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:quentin.regnier17@gmail.com)
 
