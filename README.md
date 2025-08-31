@@ -1,8 +1,8 @@
 # Hey, I'm Quentin!
 
-- Web developer front and back end 
-- I'm finishing the development of my social network
-- My future project office suite AI recreation / interactive AI / Maïa OS
+- I deeply hate the front, that's why I do the back
+- I'm redoing social network back for the 18103rd time (PHP, NodeJS, Go, Python? Never)
+- My future project office suite AI recreation / interactive AI / Maïa OS (maybe a dating app, yes I get bored when I'm not coding)
 
 For 8 years, I have been passionate about the functioning of computers, but also for their ambition. 
 The world is plunged into a precipice of pecuniary will. My ambition is to bring forth strong and tenacious competitors against the greatest!
@@ -31,7 +31,13 @@ The world is plunged into a precipice of pecuniary will. My ambition is to bring
 ---
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoExpress](https://img.shields.io/badge/MongoExpress-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
@@ -69,20 +75,21 @@ The world is plunged into a precipice of pecuniary will. My ambition is to bring
   ### Social Network
 
   #### Features 
-- [x] Creating a publication system (image and text)
-- [x] :speech_balloon: Creating a instant messaging page
-- [x] Creating a cryptage system (AES 256 bits and RSA 4096 bits)
-- [x] Creating a login and register page
-- [x] Creating a profile page
-- [x] Creating a settings page
-- [x] Creating a crop system (for image)
-- [x] Creating a multilingual system
-- [x] Creating a signal system (for administration)
-- [ ] Creating a payment page with STRIPE
-- [ ] Use WebSocket for instant messaging
-- [ ] Creating a SMTP server
-- [ ] Finishing a responsive in all pages
-- [ ] Optimize (JavaScript code, PHP code and DataBase)
+- [x] 🏁 So what is this language that Google created for us?
+- [x] 🇫🇷 Solomon Hykes cocorico
+- [x] ⛑️ Without him I don't know what I'd do (Redis). Well it's buggy because I can have several WS
+- [x] 🐘 PostgreSQL, at least it doesn't change too much from MySQL
+- [x] 🐒 MongoDB, I'm the only one who would have put a monkey illustration for this tool.
+- [ ] 🅰️🅿️ℹ️ Let's go and create the entire data exchange and query infrastructure - defining an API
+- [ ] 🧹Cleaning is not bad sometimes, my grandmother often says it.
+- [ ] 🔑 Changing the passwords is better because root:example and nubo_user:nubo_password is not great, shit, I gave the passwords, I'm too stupid
+- [ ] 🍎 I like Apple but there... Expo was better
+- [ ] 🤖 I don't like the green robot, but hey at least I actually wanted to say something but I couldn't find what to say, if I don't like it here's something very intelligent
+- [ ] ☠️ Tested I was told one day that it would be good to test before jumping under a bridge
+- [ ] 💰 I was going to forget the money, damn the money, but what did I have in mind? (STRIPE or my own "better" system)
+- [ ] 🌐 Installed all warm and cozy on my server, yes you're cute, you can, you cost me a week's worth of food per month!
+- [ ] 🪑 Wait, wait, but not too long, well, there you go, thank you, thank you, go give me your subscription, thank you!
+- [ ] 🆙📅 Update ... ... I'm lazy, right?
 
 ## My networks
 
